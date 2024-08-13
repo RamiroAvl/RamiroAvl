@@ -20,20 +20,20 @@ Sou estudante e apaixonado por programação. Estou sempre em busca de novos des
   
 ### Outras Competências:
 - Comunicação;
-- Trabalho em equipe;
 - Resolução de problemas;
 - Pensamento analítico;
-- Aprendizado contínuo.
 
+### Ambientes de Aprendizado frequentados:
 
+- ![CodeCademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347) <br>
+- UNIP - Universidade Paulista
 
 
 ## 📬 Entre em Contato:
 
 **Email**: ramirogustavoavila1@gmail.com <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramiroavila) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r4nzu1)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramiroavila) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r4nzu1) 
 
 
 

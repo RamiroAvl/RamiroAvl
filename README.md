@@ -3,6 +3,7 @@
 ## Sobre Mim:
 
 Sou estudante e apaixonado por programação. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+Atualmente cursando Análise e Desenvolvimento de Sistemas na Unip e Back-End Engineering path na plataforma CodeCademy
 
 
 ## 🛠️ Habilidades:

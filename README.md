@@ -18,7 +18,8 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na Unip e Back-End En
 ### Ferramentas:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
 ![VS Community](https://img.shields.io/badge/VS_Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### Outras Competências:
 - Comunicação;
 - Resolução de problemas;

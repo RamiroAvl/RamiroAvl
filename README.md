@@ -2,9 +2,9 @@
 
 ## Sobre Mim:
 
-Sou estudante e apaixonado por programação. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+Apaixonado por pogramação, estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas na Unip.
+Graduado em Análise e Desenvolvimento de Sistemas pela Unip.
 
 Certificado profissionalmente em Back-End Engineering path na plataforma CodeCademy.
 
@@ -13,8 +13,9 @@ Certificado profissionalmente em Back-End Engineering path na plataforma CodeCad
 
 ### Tecnologias:
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
